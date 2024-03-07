@@ -5,6 +5,6 @@ I'm Collins Ifunanya, and my keyboard is my playground where I craft digital won
 - 🔭 I’m currently weaving some coding magic at Evolve Credit, building core banking infrastructure and no-code tools.
 - 📫 Ready to chat? Connect with me on [LinkedIn](https://www.linkedin.com/in/collins-ogbuzuru/) or drop me an email at collinsogbuzuru@gmail.com.
 
-![Collins's GitHub stats](https://github-readme-stats-nu-six-56.vercel.app/api?username=ifunanyacollins&show_icons=true)
+![Collins's GitHub stats](https://github-readme-stats-nu-six-56.vercel.app/api?username=ifunanyacollins&show_icons=true&theme=radical)
 
 
