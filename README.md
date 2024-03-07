@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Collins's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifunanyacollins&show_icons=true&count_private=true)
+![Collins's GitHub stats](https://github-readme-stats-nu-six-56.vercel.app/api?username=ifunanyacollins&show_icons=true&count_private=true)
 
 <!--
 **Ifunanyacollins/ifunanyacollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
