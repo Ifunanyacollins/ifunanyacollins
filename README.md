@@ -6,9 +6,5 @@ I'm Collins Ifunanya, and my keyboard is my playground where I craft digital won
 - 📫 Ready to chat? Connect with me on [LinkedIn](https://www.linkedin.com/in/collins-ogbuzuru/).
 
 
-<p align="center">
-  <img src="https://github-readme-stats-nu-six-56.vercel.app/api?username=ifunanyacollins&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifunanyacollins&theme=dark&hide_border=false"><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifunanyacollins&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
+
 
